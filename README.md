@@ -1,7 +1,8 @@
 <h1> Hi, I'm Fenan (Faenan)! <br/>
   <a href="https://www.linkedin.com/in/fenan-megerssa-34a397235/">A student at Brown University planning to concentrate in Computational Biology and Entrepreneurship Certificate </a>
 <br/> </h1>
-   <a> Aspiring Bionformatics Scientist in Drug Discovery </a>, <a>Ardent Lover of Nature</a> 
+   <a> Aspiring Bionformatics Scientist in Drug Discovery,</a> <a>Ardent Lover of Nature</a> 
+   
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -20,13 +21,15 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>🔬 Areas of Research Interest</h2>
+<h2>🔬Areas of Research Interest </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- 🧬Vaccine Development & Production — GMP-compliant manufacturing, formulation, and quality control, informed by hands-on experience in a high-containment vaccine production facility
+- 🦿 **Computational Biomechanics** — motion tracking, biological data analysis, and machine learning applications for kinematic and morphological datasets
+- 💻 **Biocomputing & Bioinformatics** — computational methods for analyzing and modeling biological data and systems
+- 🏭 **Biotechnology** — applying engineering and computational tools to biological systems for therapeutic and industrial applications
+- 🎗️ **Oncology & Gene Editing** — therapeutic approaches to cancer biology, with a growing interest in gene-editing technologies
+- 🌍 **Global Public Health & Health Equity** — healthcare access and nutrition interventions for underserved and refugee populations
+- 💊 **Drug Discovery** — computational and biological approaches to identifying and developing novel therapeutics
 
 <h2> 🤳 Connect with me:</h2>
 
