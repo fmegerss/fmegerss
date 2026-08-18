@@ -1,5 +1,5 @@
-<h1> Hi, I'm Fenan (Faenan)!
-Computational Biology Major and Entrepreneurship Minor at Brown University</h1>        
+<h1> Hi, I'm Fenan (Faenan)! <br/>
+A student at Brown University planning to concentrate in Computational Biology and Entrepreneurship Certificate     
 <br/> 
    <a href="https://www.linkedin.com/in/fenan-megerssa-34a397235/"> Aspiring Bionformatics Scientist in Drug Discovery </a>, <a>Ardent Lover of Nature</a></h1>
 <h2>👨‍💻 Software Development Projects:</h2>
