@@ -1,7 +1,7 @@
 <h1> Hi, I'm Fenan (Faenan)!
 Computational Biology Major and Entrepreneurship Minor at Brown University,
 Aspiring Bionformatics Scientist in Drug Discovery, Ardent Lover of Nature </h1>         <br/> 
-   <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Bionformatics Scientist in Drug Discovery</a>, <a href="https://www.youtube.com/c/joshmadakor">Ardent Lover of Nature</a></h1>
+   <a href="https://www.linkedin.com/in/fenan-megerssa-34a397235/">Aspiring Bionformatics Scientist in Drug Discovery</a>, <a> Ardent Lover of Nature </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
