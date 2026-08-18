@@ -1,7 +1,7 @@
 <h1> Hi, I'm Fenan (Faenan)! <br/>
   <a href="https://www.linkedin.com/in/fenan-megerssa-34a397235/">A student at Brown University planning to concentrate in Computational Biology and Entrepreneurship Certificate </a>
-<br/> 
-   <a> Aspiring Bionformatics Scientist in Drug Discovery </a>, <a>Ardent Lover of Nature</a></h1>
+<br/> </h1>
+   <a> Aspiring Bionformatics Scientist in Drug Discovery </a>, <a>Ardent Lover of Nature</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
