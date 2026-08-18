@@ -1,4 +1,6 @@
- <h1>Hi, I'm Fenan (Faenan)! <br/><a href="https://github.com/joshmadakor1"> Computational Biology Major and Entrepreneurship Minor at Brown University</a>, 
+ Hi, I'm Fenan (Faenan)!
+Computational Biology Major and Entrepreneurship Minor at Brown University,
+Aspiring Bionformatics Scientist in Drug Discovery, Ardent Lover of Nature
          <br/> 
    <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Bionformatics Scientist in Drug Discovery</a>, <a href="https://www.youtube.com/c/joshmadakor">Ardent Lover of Nature</a></h1>
 
