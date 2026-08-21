@@ -22,6 +22,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🔬Areas of Research Interest </h2>
+</br>
 - 🧬 <b>Vaccine Development & Production:</b>GMP compliant manufacturing, formulation, and quality control, informed by very practical and hands on experience in a high-containment vaccine production facility.
 
 - 🦿 <b>Computational Biomechanics:</b>Motion tracking, biological data analysis, and machine learning applications for kinematic and morphological datasets.
