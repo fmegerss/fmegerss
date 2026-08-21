@@ -21,22 +21,17 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>🔬Areas of Research Interest </h2>
-</br>
-- 🧬 <b>Vaccine Development & Production:</b>GMP compliant manufacturing, formulation, and quality control, informed by very practical and hands on experience in a high-containment vaccine production facility.
+<h2>🔬 Areas of Research Interest</h2>
 
-- 🦿 <b>Computational Biomechanics:</b>Motion tracking, biological data analysis, and machine learning applications for kinematic and morphological datasets.
-  
-- 💻 <b>Biocomputing & Bioinformatics:</b>Developing computational models to analyze complex biological data across health, ecosystems, energy, and environmental sustainability.
-  
-- 🌱 <b>Biotechnology & Sustainability:</b>Applying engineering and computational tools to biological systems—from therapeutic discovery to bio-based renewables, synthetic biology for clean energy, and sustainable biomanufacturing.
-  
-- 🎗️<b>Oncology & Gene Editing:</b>Therapeutic approaches to cancer biology, with a growing interest in targeted gene editing technologies.
-  
-- 💊 <b>Drug Discovery:</b>Computational and biological approaches to identifying and developing novel therapeutics.
-  
-- 🌍 <b>Global Public Health & Education Equity:</b>Healthcare access and nutrition interventions for underserved and refugee populations( a cause close to home as a former refugee in Ethiopia) extending to educational and technological access through my work directing Stooping Club Ethiopia's electronics and book donations to underfunded public boarding schools
- 
+<ul>
+  <li>🧬 <b>Vaccine Development & Production:</b> GMP-compliant manufacturing, formulation, and quality control, informed by hands-on experience in a high-containment vaccine production facility.</li>
+  <li>🦿 <b>Computational Biomechanics:</b> Motion tracking, biological data analysis, and machine learning applications for kinematic and morphological datasets.</li>
+  <li>💻 <b>Biocomputing & Bioinformatics:</b> Developing computational models to analyze complex biological data across health, ecosystems, energy, and environmental sustainability.</li>
+  <li>🌱 <b>Biotechnology & Sustainability:</b> Applying engineering and computational tools to biological systems—from therapeutic discovery to bio-based renewables, synthetic biology for clean energy, and sustainable biomanufacturing.</li>
+  <li>🎗️ <b>Oncology & Gene Editing:</b> Therapeutic approaches to cancer biology, with a growing interest in targeted gene editing technologies.</li>
+  <li>💊 <b>Drug Discovery:</b> Computational and biological approaches to identifying and developing novel therapeutics.</li>
+  <li>🌍 <b>Global Public Health & Education Equity:</b> Healthcare access and nutrition interventions for underserved and refugee populations (a cause close to home as a former refugee in Ethiopia), extending to educational and technological access through my work directing Stooping Club Ethiopia's electronics and book donations to underfunded public boarding schools.</li>
+</ul>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
