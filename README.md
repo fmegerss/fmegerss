@@ -22,13 +22,12 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🔬Areas of Research Interest </h2>
-
-- 🧬 <b>Vaccine Development & Production:</b> GMP compliant manufacturing, formulation, and quality control, informed by very practical and hands on experience in a high-containment vaccine production facility
-- 🦿 <b>Computational Biomechanics:</b> Motion tracking, biological data analysis, and machine learning applications for kinematic and morphological datasets
-- 💻 <b>Biocomputing & Bioinformatics:</b> Developing computational models to analyze complex biological data across diverse fields, including health, ecosystems, energy, and sustainability.
-- 🏭 <b>Biotechnology:</b> Applying engineering and computational tools to biological systems for therapeutic and industrial applications
-- 🎗️<b>Oncology & Gene Editing:</b>Therapeutic approaches to cancer biology, with a growing interest in gene editing technologies
-- 💊 <b>Drug Discovery:</b>Computational and biological approaches to identifying and developing novel therapeutics
+- 🧬 <b>Vaccine Development & Production:</b>GMP compliant manufacturing, formulation, and quality control, informed by very practical and hands on experience in a high-containment vaccine production facility.
+- 🦿 <b>Computational Biomechanics:</b>Motion tracking, biological data analysis, and machine learning applications for kinematic and morphological datasets.
+- 💻 <b>Biocomputing & Bioinformatics:</b>Developing computational models to analyze complex biological data across health, ecosystems, energy, and environmental sustainability.
+- 🌱 <b>Biotechnology & Sustainability:</b>Applying engineering and computational tools to biological systems—from therapeutic discovery to bio-based renewables, synthetic biology for clean energy, and sustainable biomanufacturing.
+- 🎗️<b>Oncology & Gene Editing:</b>Therapeutic approaches to cancer biology, with a growing interest in targeted gene editing technologies.
+- 💊 <b>Drug Discovery:</b>Computational and biological approaches to identifying and developing novel therapeutics.
 - 🌍 <b>Global Public Health & Education Equity:</b>Healthcare access and nutrition interventions for underserved and refugee populations( a cause close to home as a former refugee in Ethiopia) extending to educational and technological access through my work directing Stooping Club Ethiopia's electronics and book donations to underfunded public boarding schools
  
 <h2> 🤳 Connect with me:</h2>
